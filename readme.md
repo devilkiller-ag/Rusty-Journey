@@ -1,0 +1,1 @@
+This repo is for documenting my journey of learning rust from the udemy course "[Rust Programming Course: From Beginner to Expert](https://www.udemy.com/course/rust-programming-master-class-from-beginner-to-expert/)" by Nouman Azam.
